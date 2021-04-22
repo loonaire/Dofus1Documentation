@@ -240,9 +240,9 @@ Les dragodindes étaient présentes à amakna avec leurs anciens skin dans les p
 [Pas mal de documentation intéressante sur dofus 1.0](https://web.archive.org/web/20041219043305/http://magoliroub2.online.fr/logitheque/logitheque.html)
 
 
-[ map / carte interactive de dofus 1.0 peu d'éléments intégré mais permet de se donner une idée suffisante](https://web.archive.org/web/20041209002658fw_/http://www.bidibul.com/dofus/index.php?idpage=telech). Soft basé sur la vrai map a l'époque du jeu (dans un livre, divisé en plein de petit bloc)
+[map / carte interactive de dofus 1.0 peu d'éléments intégré mais permet de se donner une idée suffisante](https://web.archive.org/web/20041209002658fw_/http://www.bidibul.com/dofus/index.php?idpage=telech). Soft basé sur la vrai map a l'époque du jeu (dans un livre, divisé en plein de petit bloc)
 
-[ map / carte interactive sur les version dofus jusque vers la 1.15 (déplacement de tainéla / montagne koalak) ] (http://carte.amakna.free.fr/)
+[map / carte interactive sur les version dofus jusque vers la 1.15 (déplacement de tainéla / montagne koalak)](http://carte.amakna.free.fr/)
 
 
 [Un guide enutrof de très anciennes version, avec le sort tanière des roches](https://web.archive.org/web/20060614111010/http://jeanclaude.tomas.club.fr/dofus/pouvoir.htm)
