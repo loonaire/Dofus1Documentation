@@ -7,7 +7,7 @@ J'ai choisis de crée un dépot sur github car cela permet à tous de récuperer
 
 ## Les articles:
 
-### Les changement du client de dofus de la version 1.0 à 1.20
+### Les changement du client de dofus de la version 1.0 à 1.29.1
 [Les versions du jeu des betas à la 1.29.1](/pages/versionsdofus1.md)
 
 ### Recherches sur les éléments du jeu  
