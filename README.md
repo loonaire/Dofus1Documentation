@@ -22,7 +22,7 @@ J'ai choisis de crée un dépot sur github car cela permet à tous de récuperer
 
 ## Contribuer:
 Envie d'ajouter des éléments? Vous pouvez utiliser l'onglet discussion du dépot, j'ajouterais plus tard ces éléments. Merci dans la mesure du possible de joindre des sources. Sinon vous pouvez me contacter via twitter [@loonaire](https://twitter.com/loonaire).  
-[Lien vers l'onglet discussion](https://github.com/loonaire/Dofus1Documentation/discussions) 
+[Lien vers l'onglet discussion](https://github.com/loonaire/Dofus1Documentation/discussions)   
 [Lien vers le wiki](https://github.com/loonaire/Dofus1Documentation/wiki) -> Les articles présents dans le wiki sont considérés comme terminés.
 
 Je rechercher également les versions du jeu qu'il me manque, il s'agit des version 1.1 à 1.8, 1.10 à 1.12 et 1.14, si quelqu'un les possède encore cela m'interesse! 
