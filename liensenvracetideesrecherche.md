@@ -272,4 +272,5 @@ Les dragodindes étaient présentes à amakna avec leurs anciens skin dans les p
 
 [Un forum de guilde qui regroupe pas mal d'information](http://ougaaa.free.fr/forum/index.php?sid=2d65aa97766c11482555ae709ea5732a)
 
+[Beaucoup de chose sur les jeux d'ankama](https://dofuswiki.fandom.com/wiki/Ankama_Games)
 
