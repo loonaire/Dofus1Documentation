@@ -16,7 +16,8 @@ La grotte étant positionnée juste au dessus du bord de la forêt maléfique et
 
 ## Potentiels indices:
 - Sur la map cachée sur l'hdv bucheron astrub (dans le trou avec l'échelle, il faut être un sram pour y rentrer), on retrouve le même coffre avec ogivol(vérification possible sur dofus retro). Le coffre à en revanche perdu son aura.
-- Un changelog mentionne la correction de coffres  defectueux, il s'agit de la version 1.4.1 (coffre implanté en 1.4?) [changelog 1.4.1](https://web.archive.org/web/20041223155610/http://www.dofus.com/?page=news&rubrique=v1.4.1&contenu=v1.4.1)
+- Un changelog mentionne la correction de coffres  defectueux, il s'agit de la version 1.4.1 (coffre implanté en 1.4?) [changelog 1.4.1](https://web.archive.org/web/20041223155610/http://www.dofus.com/?page=news&rubrique=v1.4.1&contenu=v1.4.1) 
+AJOUT ULTERIEUR: le coffre qui fait déconnecter l'est resté jusqu'à sa modification en 2007 donc la 1.4.1 n'a pas corrigé le problème, cependant je laisse cette mention du changelog, cela me semble intéressant.
 
 - Dans un autre changelog, il est indiqué que les émotes et attitudes sont arrivées avec cette version [lien version 1.4.0](https://forums.jeuxonline.info/sujet/422439/news-detail-de-la-mise-a-jour-du-15-et-autres-infos)
     - Emotes ou Attitudes RP
@@ -39,8 +40,7 @@ La grotte étant positionnée juste au dessus du bord de la forêt maléfique et
 
 ## Théorie:
 - Le coffre sur la map cachée de l'hdv bucheron d'astrub serait le coffre qui aurais été volé par ogivol? cela expliquerais sa disparition.
-- Le coffre semble avoir été ajouté avec la 1.4.0 ce qui explique le fait que ca soit le même que les maisons et qu'il y est pas mal de joueurs qui en parle.
-- Le coffre a pu être corrigé avec la 1.4.1 en étant supprimer ou dans un premier temps debug puis supprimer car n'ayant potentiellement pas d'interet. Ces versions de dofus ont ajoutées beaucoup de choses, dans tous les sens, la plupart de ces choses sont aujourd'hui plus ou moins supprimées depuis la 2.0 (ou n'existe plus, ou sont ajoutées par d'autres moyens, par exemple les boss en liberté ou dans des grottes, les émotes ou il faut résoudre des énigmes de dalles, des grottes "secrètes" pour différentes raisons (métier, quetes,...) ).
+- Le coffre semble avoir été ajouté avec la 1.4.0 ce qui explique le fait que ca soit le même que les maisons et qu'il y est pas mal de joueurs qui en parle. Ces versions de dofus ont ajoutées beaucoup de choses, dans tous les sens, la plupart de ces choses sont aujourd'hui plus ou moins supprimées depuis la 2.0 (ou n'existe plus, ou sont ajoutées par d'autres moyens, par exemple les boss en liberté ou dans des grottes, les émotes ou il faut résoudre des énigmes de dalles, des grottes "secrètes" pour différentes raisons (métier, quetes,...) ).
 - Le village bwork ne semblais pas exister à l'époque, il s'agirait de la grotte du boss bwork? ([source](https://web.archive.org/web/20050122194306/http://magoliroub2.online.fr/logitheque/Dofus/carte_dofus.png) ).
 - La proximité de la map par rapport au zaap bord forêt maléfique n'aurais aucun rapport, les zaaps étant apparus après la grotte (Avant les zaap, il y avais des runes qui permettait de se tp).
 
