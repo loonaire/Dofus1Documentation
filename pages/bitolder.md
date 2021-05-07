@@ -15,7 +15,7 @@ Note: On peux s'incarner en "bitolder" mais il n'a pas d'apparence, le fichier e
 ## 2. Ses infos:
 Ses caractéristiques sont disponible ici: https://dofuswiki.fandom.com/wiki/Bitolder ( et il me semble sur un autre site avec son image mais je n'ai plus le lien).
 Infos extrait des fichiers:
-- id: 151 (comme le premier pokemon)
+- id: 151 (comme le premier pokemon) ( l'id 150 est le Noeul, monstre qui lui ressemble un peu)
 - gfxid (sprite): 1094
 - le monstre a 6 "niveaux", à chaque fois il est lvl 100
 - les resistances du wiki fandom semblent correctes:  
