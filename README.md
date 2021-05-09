@@ -24,7 +24,9 @@ J'ai choisis de crée un dépot sur github car cela permet à tous de récuperer
 
 [Le sanctuaire d'Hotomani](/pages/sanctuairehotomani.md)
 
-[Les donjons Ilyzaelle et qu'tan](/pages/donjonilyzaelleetqutan .md)
+[Les donjons Ilyzaelle et qu'tan](/pages/donjonilyzaelleetqutan.md)
+
+[Les dofus inutilisés de dofus 1](/pages/dofusinutilise.md)
 
 ## Contribuer:
 Envie d'ajouter des éléments? Vous pouvez utiliser l'onglet discussion du dépot, j'ajouterais plus tard ces éléments. Merci dans la mesure du possible de joindre des sources. Sinon vous pouvez me contacter via twitter [@loonaire](https://twitter.com/loonaire).  
