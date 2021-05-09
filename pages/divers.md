@@ -43,3 +43,11 @@ La qualité des images miniatures des sorts est très variable, certains sorts s
 ## Les débuts de dofus arena
 [Premier lien du jeu](https://www.dofus.com/fr/forum/1750-dofus/21176-dofus-arena)
 Tot annonce que dofus arena est ce qu'aurais du être dofus, le jeu avais été pensé comme ca dans ses toutes premières betas.
+
+## Lethaline  Sigisboul
+
+- Semble avoir été visible vers la 1.13, son invasion, ordonnée par uk'not allag a eu lieu le vendredi 21 avril 636  (2006), il y  a eu un event sur Jiva. [Source](https://dofus-rp.fandom.com/fr/wiki/Uk%27Not%27Allag)
+- Event lié a Jiva, n'a été visible et utilisé nul part ailleurs mais semblais peux être prévu?
+- Une pancarte d'avis de recherche d'astrub sur dofus retro la concerne.
+
+
