@@ -89,6 +89,8 @@ Cordialement,Sombrepresage du serveur Silouate.
 ## Eléments en rapport a l'eliocalypse?
 Références d'une zone nommée amakna passé dans la version 1, elle se trouve peux etre dans la maison d'henual? de plus, l'eliocalypse nous fait voyager dans le passé, il y a un possible clin d'oeil? (ou dans les quetes de dofus touch?)
 
+-> [ici](https://www.dofus.com/fr/forum/1003-divers/1932436-legendes-mysteres-dofus?sort=rate_D&page=1) dans le bas de la page, Korri évoque le fait que les map "amakna passé" ont été crée pour permettre de montrer comment était amakna au tout début de la beta de dofus en 2003-2004, cela semble proche de ce que voulais faire dofus touch en ramenant les joueurs en 1.29.  
+
 ---
 ## Chercher dans les fichiers artwork des clients
 
@@ -138,6 +140,8 @@ Non achetable?
 Code pour entrer?
 Semble avoir été supprimée ou modifiée pour ne plus avoir tout les ateliers dedans. Surement suite au palais des lac (le "nouveau" KEK?) et/ou aux revalorisations de bonta et brakmar en y ajoutant des ateliers afin d'éviter les aggressions?
 
+- map id des cartes dans la maison: 2026 et 2051 (peux être d'autres maps id)  
+
 [https://www.dofus.com/fr/forum/1778-artisanat-elevage/2339415-reouverture-kek-sortie-mono-retro?page=1](https://www.dofus.com/fr/forum/1778-artisanat-elevage/2339415-reouverture-kek-sortie-mono-retro?page=1)
 
 ---
@@ -166,11 +170,20 @@ Potentiellement présent en 1.13? mais absent en 1.9.1.
 
 Je sais que l'histoire rapide c'était sensé etre des personnes qui aiderait les joueurs pour accomplir des choses en échange de payement.
 
+
+---  
+Quêtes alignements 1.29:  
+quêtes alignement 1 a 70  
+https://ponzadivizion.wordpress.com/quete-bonta/  
+brakmar:  
+https://ponzadivizion.wordpress.com/quetes-brakmar/  
+
 ---
-## Le dofus des glaces
-Ce dofus est présent depuis la 1.0, pourquoi? ou était il prévu? un lien avec la baleine?
+Sous le village d'amakna, map id 1486 - 1500 (environ, ca ne concerne que quelques map), on a un chateau dans le style dofus 1.0
 
+-> Grotte avec un coffre temple enu, ca serait la grotte de la map? (mapid : 11990), quete alignement?
 
+-> map 12098, prévue pour quete alignement? vestige?
 
 
 ---
@@ -273,4 +286,38 @@ Les dragodindes étaient présentes à amakna avec leurs anciens skin dans les p
 [Un forum de guilde qui regroupe pas mal d'information](http://ougaaa.free.fr/forum/index.php?sid=2d65aa97766c11482555ae709ea5732a)
 
 [Beaucoup de chose sur les jeux d'ankama](https://dofuswiki.fandom.com/wiki/Ankama_Games)
+
+
+
+vieux site craft item et jet:
+https://web.archive.org/web/20050407065936/http://www.cara-dofus.net/chapeaux.html
+
+
+site qui montre les monstres "connus" disponible en 1.0 / 1.1:
+https://web.archive.org/web/20041026052345/http://xenografter.chez.tiscali.fr:80/Monstres/Bestiaire.html
+
+
+Site qui parle des caractéristiques au moment de la 1.0
+https://web.archive.org/web/20050221162315if_/http://www.level01.net/~apo4/Dofus/statistiques.htm
+
+
+Les peluches, site de 2007, les peluches donnent des stats... une copie des charmes de diablo 2?
+https://web.archive.org/web/20070715002646/http://xenografter.chez-alice.fr/Art/jbcx.html
+
+recettes sculpteur arc 26 avril 2005 (1.7/1.8)
+https://web.archive.org/web/20050426044731/http://mypage.bluewin.ch/Sobek/sobek.htm
+
+recettes forgeur épée 18/05/2006
+https://web.archive.org/web/20060518053907/http://bcjm2.free.fr/index.php?page=forgeur_epees
+
+recettes anneau 18/05/2006
+https://web.archive.org/web/20060518053849/http://bcjm2.free.fr/index.php?page=bijoutier01
+
+La preuve qu'il y a toujours eu des trucs bizarre sur dofus....
+https://web.archive.org/web/20070212083100/http://membres.lycos.fr:80/dofusverite/
+
+
+BEAUCOUP D'INFO
+https://forums.jeuxonline.info/sujet/1152388/les-mysteres-de-dofus-futur-implantation
+
 
