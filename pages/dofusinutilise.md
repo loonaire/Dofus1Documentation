@@ -38,7 +38,7 @@ Ses bonus:
 On peux imaginer que ce dofus devait être à la place du dofus kaliptus, pourquoi n'est-il pas sortis à sa place? Cet semi implantation prouverai que la version 1 du jeu aurait beaucoup de choses prévues et ajoutées mais jamais totalement ajoutées et je trouve ca vraiment dommage, surtout qu'un dofus sur pandala, pour l'époque, aurait rendu l'ile plus intéressante.  
 De même, il semble avoir été implanté dans les mêmes moments que le dofus ébène, la encore, ajouter 2 items intéressants et y ajouter leur background mais ne pas vraiment les rendres disponibles, surtout que les items sont "prêts" et n'aurait besoin que d'un léger équilibrage. 
 
-# Le dofus vinaigrette
+## Le dofus vinaigrette
 Dofus un peu plus mystérieux, je n'ai aucune information sur ce dofus en dehors de sa description et de son jet.
 
 <img src="./images/dofus/13.png" width="10%"><br>
@@ -47,7 +47,7 @@ Description: Avec ou sans lardons, ce Dofus est toujours aussi bon.
 Jet:
 - 1 à 3 créatures invocables
 
-
+## Les autres dofus
 Il y a 4 autres dofus mais il n'y a aucune informations sur ceux ci.
 
 <img src="./images/dofus/14.png" width="10%">
