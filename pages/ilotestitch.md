@@ -15,19 +15,13 @@ La sous zone ilot estitch existe, les id des maps vont de 12151 à 12159 pour l'
 <img src="./images/ilotestitch/12151.png" width="350" height="350"><img src="./images/ilotestitch/12152.png" width="350" height="350"><img src="./images/ilotestitch/12155.png" width="350" height="350"><br>  
 
 
-<img src="./images/ilotestitch/12153.png" width="350" height="350">
-<img src="./images/ilotestitch/12154.png" width="350" height="350">
-<img src="./images/ilotestitch/12156.png" width="350" height="350"> <br>
+<img src="./images/ilotestitch/12153.png" width="300" height="350"><img src="./images/ilotestitch/12154.png" width="300" height="350"><img src="./images/ilotestitch/12156.png" width="300" height="350"> <br>
 
-<img src="./images/ilotestitch/12157.png" width="350" height="350">
-<img src="./images/ilotestitch/12158.png" width="350" height="350">
-<img src="./images/ilotestitch/12159.png" width="350" height="350"> <br>
+<img src="./images/ilotestitch/12157.png" width="300" height="350"><img src="./images/ilotestitch/12158.png" width="300" height="350"><img src="./images/ilotestitch/12159.png" width="300" height="350"> <br>
 
 
 Et la "grotte" intérieure de l'ile:
-<img src="./images/ilotestitch/12164.png" width="350" height="350">
-<img src="./images/ilotestitch/12165.png" width="350" height="350">
-<img src="./images/ilotestitch/12166.png" width="350" height="350">
+<img src="./images/ilotestitch/12164.png" width="300" height="350"><img src="./images/ilotestitch/12165.png" width="300" height="350"><img src="./images/ilotestitch/12166.png" width="300" height="350">
 
 
 ## Les suppositions
