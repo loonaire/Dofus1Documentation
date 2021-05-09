@@ -3,6 +3,7 @@
 
 ## Son apparition
 Son "apparition" semble avoir eu lieu en 2007 (dofus 1.19, refonte baie de cania), la première trace que j'ai retrouvé de ce sanctuaire que j'ai trouvé est [ici](https://forums.jeuxonline.info/sujet/887034/grotte-au-coeur?highlight=grotte+coeur) en avril 2008. A cette date, il y avais seulement l'entrée qui était implantée, les cartes et la zone ont été ajouté avec la 1.24, en même temps que la quête des archimonstres pour le dofus ocre. Il s'agit de la dernière "vraie" zone implantée dans le client 1.x.  
+L'entrée de la zone se trouve en -27 -28, quelques map au dessus du donjon blop.
 Je ne sais pas si les cartes de la zones sont dans le client dofus 2.0, cependant la carte de l'entrée du sanctuaire est restée jusqu'à la mise à jour 2.37, la refonte de cania.
 Dans les fichiers de dialogue du jeu, il est fait mention de cet endroit, il est expliqué que l'on doit y aller pour libérer un pnj bontarie, Candun Mac Leonidas qui est piégé dans le sanctuaire. Une fois délivré, il y a une phrase: "Senfuir par le passage et le condamner."
 Le sanctuaire semble avoir été dévloppé en même temps que les quêtes d'alignements.
