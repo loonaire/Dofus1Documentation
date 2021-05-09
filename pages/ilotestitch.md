@@ -12,9 +12,7 @@ Certaines informations que l'on lire sur internet évoque le monstre "Pumbaa" qu
 ## Les maps
 La sous zone ilot estitch existe, les id des maps vont de 12151 à 12159 pour l'extérieur et de 12164 à 12166 pour les cartes intérieures.
 
-<img src="./images/ilotestitch/12151.png" width="350" height="350">
-<img src="./images/ilotestitch/12152.png" width="350" height="350">
-<img src="./images/ilotestitch/12155.png" width="350" height="350"><br>  
+<img src="./images/ilotestitch/12151.png" width="350" height="350"><img src="./images/ilotestitch/12152.png" width="350" height="350"><img src="./images/ilotestitch/12155.png" width="350" height="350"><br>  
 
 
 <img src="./images/ilotestitch/12153.png" width="350" height="350">
