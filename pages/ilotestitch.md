@@ -20,8 +20,10 @@ La sous zone ilot estitch existe, les id des maps vont de 12151 à 12159 pour l'
 <img src="./images/ilotestitch/12157.png" width="300" height="350"><img src="./images/ilotestitch/12158.png" width="300" height="350"><img src="./images/ilotestitch/12159.png" width="300" height="350"> <br>
 
 
-Et la "grotte" intérieure de l'ile:
-<img src="./images/ilotestitch/12164.png" width="300" height="350"><img src="./images/ilotestitch/12165.png" width="300" height="350"><img src="./images/ilotestitch/12166.png" width="300" height="350">
+Et la "grotte" intérieure de l'ile:  
+<img src="./images/ilotestitch/12164.png" width="300" height="350">
+<img src="./images/ilotestitch/12165.png" width="300" height="350">
+<img src="./images/ilotestitch/12166.png" width="300" height="350">
 
 
 ## Les suppositions
@@ -37,31 +39,3 @@ Le déploiement plus rapide que prévu de dofus 2.0 a pu enclencher le développ
 [Un sujet du forum officiel.](https://www.dofus.com/fr/forum/1003-divers/1932436-legendes-mysteres-dofus?sort=rate_D&page=1)
 [Un autre sujet du forum officiel.](https://www.dofus.com/fr/forum/1807-monocomptes/2353772-ilot-estitch-spoil-secret-bien-garde)
 [Un sujet d'un blog.](https://loleyke.skyrock.com/3249742416-Hors-serie-Un-article-un-peu-special.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Lié au sanctuaire Hotomani?
-
-
-- sub area 501
-- Implanté en 1.27? ( aucune idée si c'est exactement cette version)
-    - => Correspond a une histoire de quete bonta = sanctuaire hotomani, brak = ilot estitch
-
-mapid:
- 12151 12152 12153 12154 12155 12156 12157 12158 12159 
- intérieur? 12164 12165 12166  
-
--> Comparé a ce qu'on peux lire, le monstre pumbaa a été pensé pour l'ile d'otomai, pas l'ilot estitch.
-        -> Montre nommé: "Phacochere rider" sprite id 1597 en tant que montre des plaines herbeuses.
