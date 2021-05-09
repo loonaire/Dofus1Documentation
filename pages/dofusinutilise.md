@@ -25,6 +25,7 @@ Ses bonus supposés:
 - 1 à 10 résistances neutre
 
 On peux supposer que frigost était prévu depuis la sortie du jeu ou bien qu'il aurait été obtenable via un autre boss, il est étonnant qu'il ne soit pas sorti en version 1.
+Peux être que ce dofus était lié à la baleine que l'on vois dans le trailer de dofus de 2004.  
 
 ## Le dofus tâcheté:
 Ce dofus peux étrangement être mis en lien avec le dofus ébène et pandala.
