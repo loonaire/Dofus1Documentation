@@ -38,7 +38,9 @@ Le nom anglais est également Teubatak.
 
 Le sort ne semble pas avoir d'animation.
 
-Le sort possède 6 niveaux, il est possible qu'il ai été crée au moins après la version 1.7 (création du niveau 6 des sorts de joueurs [lien vers le changelog 1.7](https://www.dofus.com/fr/forum/1750-dofus/15913-mise-jour-28-06-05) ).
+Voici son sort:
+![](./images/bitolder/teubatak.png)
+Le sort ne semble pas équilibré. Probablement un placeholder.
 
 ## 4. Sa map: La grotte de loopine
 
