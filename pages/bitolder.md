@@ -32,14 +32,13 @@ A ma connaissance, c'est son seul sort.
 
 - nom: Teubatak
 - Spell id: 237 (dans clips/spells)
-- Aucun élément d'attaque
 
 Le nom anglais est également Teubatak.
 
 Le sort ne semble pas avoir d'animation.
 
 Voici son sort:
-![](./images/bitolder/teubatak.png)
+![](./images/bitolder/teubatak.png)  
 Le sort ne semble pas équilibré. Probablement un placeholder.
 
 ## 4. Sa map: La grotte de loopine
