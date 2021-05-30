@@ -3,14 +3,14 @@
 
 ## 1. Ses fichiers dans le jeu:
 Le bitolder est présent dans les sprites du jeu, à ma connaissance, le fichier est seulement présent dans la 1.9.1.  
-Le fichier se nomme: 1094.swf et est dans le dossier /clips/sprites/ du jeu, le fichier semble avoir été crée avec flash 6. 
+Le fichier se nomme: 1094.swf et est dans le dossier /clips/sprites/ du jeu, le fichier semble avoir été crée pour flash 7 (le header du swf indique que le fichier est crée en swf version 7) . 
 La version 1.0 ayant un sprite n°1095, il est possible qu'il est été implanté avant cette version.  
 D'autres références à ce monstre sont égalements présentes dans d'autres endroits:
     - dans les "langs", dans la version française il est nommé bitolder.
     - dans le fichier sprite.xml (présent à partie de la 1.16), il est appelé BITEHOLDER. Il est supprimer de ce fichier dans les dernières version de la version 1 du jeu (dans les 1.20).  
 
 
-Note: On peux s'incarner en "bitolder" mais il n'a pas d'apparence, le fichier est probablement trop vieux, je suppose qu'il faudrais utiliser une version du jeu basée sur flash 7 ou flash 6 (avant dofus 1.10 pour flash 7, version 1.0 ou beta pour flash 6), avec le temps le fonctionnement des sprites ayant changé, utilisé le fichier de la 1.9 avec cette même version semble la seule chance de voir le bitolder en jeu.
+Note: On peux s'incarner en "bitolder" mais il n'a pas d'apparence, le fichier est possiblement corrompu ou non fonctionnel et donc le bitolder ne s'affiche pas mais est présent.
 
 ## 2. Ses infos:
 Ses caractéristiques sont disponible ici: https://dofuswiki.fandom.com/wiki/Bitolder ( et il me semble sur un autre site avec son image mais je n'ai plus le lien).
@@ -69,7 +69,7 @@ La première version de cette map que je possède date de mai 2005 (version 1.7)
 J'écris cette partie à la suite d'autres recherche.
 En regardant la mapmonde de dofus retro, on vois sur la map 2,17 qu'il y a une maison, au départ je pensais que c'était pour signaler la présence de la grotte, cependant, il y a une chose intéressante à connaitre.
 A partir de la 1.0, la carte semble être la version "finale", celle qui est dans dofus rétro actuellement. En revanche, si on regarde [ici](https://web.archive.org/web/20040808030022/http://ophmialeen.free.fr:80/map.htm) et [ici](https://web.archive.org/web/20161017180243im_/http://ophmialeen.free.fr/MapDofusQM/1024.jpg) (une map "interactive des premières versions du jeu), on remarque que sur la carte de la version beta 16b, il y a une maison appelée "La maison Arbre", si on prend une carte de la version site web au lieu de la version png, la sauvegarde du site du 5 et 8 aout 2004 (dates de la beta 17, la version 1.0 étant sortie fin aout) indiquent que la maison est désormais à la place de l'atelier alchimiste en 1,16 et qu'il y a désormais une grotte avec un pnj (Loopine) devant.
-J'en déduis que la beta 17 à été la version du changement et de l'arrivée de la grotte et de Loopine.
+J'en déduis que la beta 17 à été la version du changement et de l'arrivée de la grotte et de Loopine, en revanche une mise à jour ultérieure de la carte semblais prévue, elle n'a en effet pas de soleil de changement de carte au niveau de la grotte (Loopine devais surement être remplacé par le soleil).  
 
 Pour finir, sur la carte du monde de la version 1.0 à dofus retro, on remarque qu'il y a une maison en 2,17 , cette maison serait en réalité la maison arbre, la carte du monde d'amakna n'a donc jamais été mise à jour.
 
@@ -95,6 +95,7 @@ Il semble y avoir 2 "versions":
 Enfin, peux être son sort:  
 ![](./images/bitolder/frames9.gif) 
 
+Le fichier est possiblement non complet, le monstre n'a qu'une orientation de disponible, de plus, le fichier étant en swf version 7 et dofus 1.0 étant en version flash 6 / swf version 6, le fichier à été mis à jour pour la version qui a passé dofus de flash 6 vers flash 7.  
 
 
 ## 7. Théories / Suppositions:
@@ -103,7 +104,7 @@ Il y a beaucoup à supposer sur ce monstre.
 La map semble être "vieille", mon plus vieux fichier semble être de 2005,  elle semble avoir été crée pour la beta 17, peu de temps avant la 1.0. Comme le dit kam dans son interview, quelques mois avant la fin de la beta (début 2004, vers les dernières versions beta, 16 et 17 probablement), ils ont ajoutés une grosse quantité de monstres. Les premères beta (5 et 7) que je possède ont vraiment peu de monstres, moins de 50, en revanche à partir de la 1.0 on remarque que le sprite 1093 et le sprite 1095 existent. C'est comme si le bitolder avait déja été supprimé avant d'être mis en jeu. 
 
 Une question assez étrange, pourquoi le monstre apparait d'un coup dans la 1.9.1?
-Comme le monstre à été crée pour la version beta 17, je pense que quelque chose en lien avec le monstre était prévus, une tentative d'ajouter ce monstre aurais pu être tenté avec la version 1.9, ce qui correpond également à la date de la version de la map de 2005 (la map semble être "pensée" depuis la beta 17 également, elle a pu subir une mise à jour pour la version 1.9). Ne possédant ni la version 1.8 ni les versions 1.10,1.11,1.12, je ne pas confirmer qu'il était présent dans ces versions. A partir 1.13 il a été retiré et "oublié".  
+Comme le monstre à été crée pour la version beta 17, je pense que quelque chose en lien avec le monstre était prévus, une tentative d'ajouter ce monstre aurais pu être tenté avec la version 1.9, ce qui correpond également à la date de la version de la map de 2005 (la map semble être "pensée" depuis la beta 17 également, elle a pu subir une mise à jour pour la version 1.9). Ne possédant ni la version 1.8 ni les versions 1.10,1.11,1.12, je ne pas confirmer qu'il était présent dans ces versions. A partir 1.13 il a été retiré et "oublié". On peux également imaginer que le bitolder était prévu pour la foire du troll (cf: bouftouGM, bouftous coller et empiler dans une tente de la foire du troll), cela expliquerai qu'il n'ai qu'une orientation de disponible mais pas pourquoi il ne s'affiche pas.  
 De plus, le changelog de la 1.8 fait mention d'un boss de niveau moyen à combattre. [Lien vers le changelog de la 1.8](https://www.dofus.com/fr/forum/1750-dofus/17140-modifications-version-1-8).
 Il est fort possible que le monstre devait être un peu comme le dragon cochon: trouvable dans une grotte, sous la forme de boss. Les changelogs 1.7, 1.8, 1.9 font également mention de nouveaux items, nouvelles ressoures implantées en masse, le bitolder devait peux être servir à obtenir ces ressources.  
 
@@ -129,8 +130,9 @@ De plus, on sais que dans les dernières versions de la beta, il a été ajouté
 - La grotte aurait pu être préparée, avec le dialogue de Loopine, le lore du bitolder (A ce que j'ai lu, le "lore" du jeu aurait été "forcé" d'être ajouté pour rendre le jeu cohérent et avoir une vraie histoire), cependant le bitolder aurais pu ne jamais être "prêt" à sortir.
 
 
-Il est possible que la grotte soit un "placeholder" et que le bitolder soit le "placeholder" de la grotte, ce qui expliquerai que tout soit prévu mais jamais sorti officiellement, amakna n'ayant été développé quasiment que pendant la beta puis jamais revu.
+Il est possible que la grotte soit un "placeholder" et que le bitolder soit le "placeholder" de la grotte, ce qui expliquerai que tout ai été prévu mais jamais sorti officiellement, amakna n'ayant été développé quasiment que pendant la beta puis jamais remis proprement à jour dans les versions 1 de dofus. De plus, le fait qu'il n'est qu'une orientation possible semble cohérent avec le coté placeholder, mais pour qu'il ai été tout de même déssiner c'est qu'il y avais un projet autour de lui.
 
+Aujourd'hui, a mon avis le seul moyen de le voir en jeu serait de récuperer la version beta 17b de dofus... version que plus personne ne possède probablement (et qu'il est impossible de relancer aujourd'hui).
 
 
 Petit ajout:
@@ -152,4 +154,5 @@ Merci à Liche qui fait des vidéos sur le sujet et qui en a parler. [Voir sa vi
 - Au timecode 3:23, le pnj Philémy Barthémon évoque également le bitolder.
 - Un bitolder serait présent dans la base des justiciers, emprisonné.
 
-
+CHANGELOG:
+30/05/2021 : Mise à jour "finale" de l'article, sauf si un jour j'arrive à récuperer une version beta 17b, il est actuellement impossible d'aller chercher plus d'élément et de connaitre plus d'éléments.
