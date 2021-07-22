@@ -7,7 +7,7 @@ Je vais faire une sorte d'analyse du fichier Sprites.xml et de lecture des sprit
 On va commencer avec un monstre plus ou moins connu, je sais qu'il a déja été montré, il s'agit du "gros démon sur son canap", c'est un démon sur le "trone" d'ogivol:  
 ![](./images/monstres/grosdemon.png)  
 
-Le second est également surement connus, il s'agit d'un boufton debout. Ce monstre est surement utilisé dans la foire du trooll ou dans un coin bouftou. Il s'appel Bouftou GM (pour guildmaster surement, pour un event peux être?), il semble pouvoir combattre car il a une animation de CC.  
+Le second est également surement connus, il s'agit d'un boufton debout. Ce monstre est surement utilisé dans la foire du trooll ou dans un coin bouftou. Il s'appel Bouftou GM (pour guildmaster ou génétiquement modifié comme le wabbit GM?), il semble pouvoir combattre car il a une animation de CC.  
 ![](./images/monstres/bouftouGM.png)  
 
 
