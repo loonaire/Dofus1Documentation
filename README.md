@@ -27,7 +27,7 @@ J'ai choisis de crée un dépot sur github car cela permet à tous de récuperer
 [Les dofus inutilisés de dofus 1](/pages/dofusinutilise.md)
 
 
-[Les autres jeux d'ankama](/pages/Autresjeuxankama.md)
+[Les autres jeux d'ankama](/pages/Autresjeuxankama.md)  
 [Fichier contenant des liens en tout genre et des idées d'axe de recherche](liensenvracetideesrecherche.md)
 
 ## Contribuer:
