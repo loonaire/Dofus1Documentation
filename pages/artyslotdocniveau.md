@@ -11,5 +11,5 @@ Composition de la chaine de caractère:
 - champ 3 et 4: posx et posy, il s'agit de la position de départ du personnage
 - A partir du champ 5: il s'agit du contenu des cases, le nom du champ est &cXX= où XX est le numéro de la case. Il y a champ 1 * champ 2 case sur la map, ici, il s'agit de l'image a afficher pour chaque case, a prioris, il faut un nombre entre 1 et 3 inclus, cependant dans le fichier original il y a d'autres valeurs
 - Après les champs c, il y a le champ ques, il s'agit d'une question à laquelle doit répondre le joueur, sous la forme d'énigme.
-- 
-- 
+
+Je ne sais pas trop où aller après, néanmoins il y a déja un bon départ d'information.
