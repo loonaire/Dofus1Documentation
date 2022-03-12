@@ -134,17 +134,15 @@ Il est possible que la grotte soit un "placeholder" et que le bitolder soit le "
 
 Aujourd'hui, a mon avis le seul moyen de le voir en jeu serait de récuperer la version beta 17b de dofus... version que plus personne ne possède probablement (et qu'il est impossible de relancer aujourd'hui).
 
-
 Petit ajout:
 Le 30 avril 2021, [il est indiqué](https://www.dofus.com/fr/mmorpg/actualites/devblog/billets/1323866-devblog-retro-1-35-approche) qu'il n'était pas rare d'utiliser des monstres "placeholder", en regardant les dernières versions de la version 1, on remarque qu'il y a énormément de "placeholder" et de sprite plus ou moins doublon.
 Le bitolder en est donc peux être un.
 
-
-
 Pour terminer, si quelqu'un veux terminer ces recherches, je partirais voir du côté de la maison alchimiste en 1,16, il y aurais peux être des éléments de dialogue qui parlerais du bitolder et de l'arrivée de la grotte à la place de la maison.
 
-
-Je pense avoir tout dit sur le bitolder.
+Second ajout:
+Après des recherches sur d'autres éléments du jeu, l'id du sort du bitolder (237) est intéressant, les id des sorts des 10 premières classes vont de 1 à 200, il ne s'agirait donc que du 37ième sort lié à un monstre, a partir de la, il est possible d'imaginer que le bitolder serait vraiment un des premiers monstres de dofus (et potentiellement crée avant la grotte de loopine).  
+Pour information, l'id du sort se place juste avant l'id des sorts des monstres de la forêt maléfique de la 1.29 (qui sont à l'origine les monstres de la zone des bwork ainsi que la zone du cimetière d'amakna), il semble très probable que le bitolder soit lié de plus ou moins loin aux noeul et aux oni.
 
 
 ## 8. Les références au bitolder
@@ -156,3 +154,4 @@ Merci à Liche qui fait des vidéos sur le sujet et qui en a parler. [Voir sa vi
 
 CHANGELOG:
 30/05/2021 : Mise à jour "finale" de l'article, sauf si un jour j'arrive à récuperer une version beta 17b, il est actuellement impossible d'aller chercher plus d'élément et de connaitre plus d'éléments.
+12/03/2021 : Ajout dans la conclusion d'une partie sur l'id du sort.
